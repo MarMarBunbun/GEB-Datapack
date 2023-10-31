@@ -1,0 +1,6 @@
+{"target": "cobblemon:Therian",
+      "primaryType": "wind",
+      "secondaryType": "flying",
+	  "abilities": [
+        "regenerator"
+      ]}

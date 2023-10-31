@@ -1,0 +1,19 @@
+{"target": "cobblemon:Kricketot",
+   "primaryType": "bug",
+   "secondaryType": "sound",
+   "moves": [
+    "1:bide",
+    "1:growl",
+    "1:tackle",
+    "6:strugglebug",
+    "16:bugbite",
+    "tm:strugglebug",
+    "tm:terablast",
+    "tutor:bugbite",
+    "tutor:endeavor",
+    "tutor:mudslap",
+    "tutor:snoresound",
+    "tutor:stringshot",
+    "tutor:strugglebug",
+    "tutor:uproar"
+  ]}
